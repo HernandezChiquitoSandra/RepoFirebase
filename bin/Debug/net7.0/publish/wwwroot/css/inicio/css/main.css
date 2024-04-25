@@ -1,0 +1,28 @@
+﻿/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 768px) {
+    .info-section {
+        flex-direction: column-reverse; /* Invierte la dirección del flex container */
+    }
+
+    .info-content {
+        text-align: center; /* Centra el contenido */
+    }
+
+        .info-content img {
+            margin-right: 0; /* Elimina el margen derecho de la imagen */
+            margin-bottom: 20px; /* Agrega un margen inferior a la imagen */
+        }
+
+        .info-content div {
+            margin-left: 0; /* Elimina el margen izquierdo del div contenedor del texto */
+        }
+        .mapa {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Reduciendo el tamaño de las columnas en pantallas pequeñas */
+    }
+
+    .enlace {
+        padding: 10px; /* Reduciendo el padding en pantallas pequeñas */
+        font-size: 0.9em; /* Reduciendo el tamaño de fuente en pantallas pequeñas */
+    }
+
+}

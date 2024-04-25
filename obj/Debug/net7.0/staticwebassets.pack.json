@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dimis\\Documents\\Desarrollos\\AppBlazor\\AppBlazor\\Server\\wwwroot\\posters\\2b2b5c6d-139b-4b0b-8de5-52292797c829.jpg",
+      "PackagePath": "staticwebassets\\posters\\2b2b5c6d-139b-4b0b-8de5-52292797c829.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AppBlazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AppBlazor.Server.props",
+      "PackagePath": "build\\AppBlazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AppBlazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\AppBlazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AppBlazor.Server.props",
+      "PackagePath": "buildTransitive\\AppBlazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

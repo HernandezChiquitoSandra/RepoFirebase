@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\dimis\source\repos\AppBlazor\AppBlazor\Server\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-12T07:12:16.7492777Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
